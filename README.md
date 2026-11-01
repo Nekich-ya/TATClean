@@ -15,7 +15,7 @@
 ![PyQt6](https://img.shields.io/badge/UI-PyQt6-353535?labelColor=000000)
 ![Code license](https://img.shields.io/badge/Own%20source-MIT-353535?labelColor=000000)
 
-[Features](#features) · [Install](#install) · [Build](#build-an-executable) · [Safety](#safety-before-speed) · [Publish to GitHub](docs/GITHUB_PUBLISHING.md)
+[Features](#features) · [Install](#install) · [Build](#build-an-executable) · [Safety](#safety-before-speed) ·
 
 </div>
 
