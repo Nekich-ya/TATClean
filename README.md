@@ -30,7 +30,7 @@ It is an **independent, source-available Hone Ctrl–style alternative**, not an
 Pure-black surfaces, translucent charcoal cards, silver accents, 12px card corners, scalable vector icons, hover animations and responsive background tasks.
 
 <p align="center">
-  <img src="docs/media/dashboard.png" alt="TAT Clean Dashboard — System Overview" width="100%">
+  <img src="docs/media/dashboard.jpg" alt="TAT Clean Dashboard — System Overview" width="100%">
 </p>
 
 | View | Description |
