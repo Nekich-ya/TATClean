@@ -40,8 +40,6 @@ Pure-black surfaces, translucent charcoal cards, silver accents, 12px card corne
 | **Deep Cleaner** | Multi-drive junk scanning, shader caches, and duplicate detection |
 | **RAM & Services** | Working-set optimization and safe, reversible Windows service tweaks |
 
-**Screenshots:** follow the [capture, privacy and placement guide](docs/SCREENSHOTS.md). Raw captures are intentionally excluded from Git. Add only reviewed images under `docs/media/`.
-
 <!-- After reviewing and adding the real screenshots, uncomment this gallery:
 <p align="center">
   <img src="docs/media/dashboard.png" alt="TAT Clean dashboard with monochromatic system metrics" width="100%">
