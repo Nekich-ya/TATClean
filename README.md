@@ -29,12 +29,16 @@ It is an **independent, source-available Hone Ctrl–style alternative**, not an
 
 Pure-black surfaces, translucent charcoal cards, silver accents, 12px card corners, scalable vector icons, hover animations and responsive background tasks.
 
-| View | What to show in the public gallery |
+<p align="center">
+  <img src="docs/media/dashboard.png" alt="TAT Clean Dashboard — System Overview" width="100%">
+</p>
+
+| View | Description |
 | --- | --- |
-| Dashboard | Live CPU/RAM/storage cards and **Optimize Now** |
-| Gaming & Latency | Granular selections, verified-checkpoint protection and individual revert controls |
-| Deep Cleaner | Multi-drive selection, reviewed candidates and duplicate-dump safeguards |
-| RAM & Services | User-process tools and reversible, curated service controls |
+| **Dashboard** | Live CPU/RAM/storage metrics, system specs, and quick scan access |
+| **Gaming & Latency** | Granular tweaks, system timer resolution, and rollback controls |
+| **Deep Cleaner** | Multi-drive junk scanning, shader caches, and duplicate detection |
+| **RAM & Services** | Working-set optimization and safe, reversible Windows service tweaks |
 
 **Screenshots:** follow the [capture, privacy and placement guide](docs/SCREENSHOTS.md). Raw captures are intentionally excluded from Git. Add only reviewed images under `docs/media/`.
 
